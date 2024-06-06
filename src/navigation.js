@@ -6,25 +6,25 @@ export const headerData = {
       text: 'Homes',
       links: [
         {
-          text: 'SaaS',
+          text: 'ZMENA1',
           href: getPermalink('/homes/saas'),
         },
         {
-          text: 'Startup',
+          text: 'ZMENA2',
           href: getPermalink('/homes/startup'),
         },
         {
-          text: 'Mobile App',
+          text: 'ZMENA3',
           href: getPermalink('/homes/mobile-app'),
         },
         {
-          text: 'Personal',
+          text: 'ZMENA4',
           href: getPermalink('/homes/personal'),
         },
       ],
     },
     {
-      text: 'Pages',
+      text: 'ZMENA5',
       links: [
         {
           text: 'Features (Anchor Link)',
@@ -93,7 +93,7 @@ export const headerData = {
           href: getBlogPermalink(),
         },
         {
-          text: 'Article',
+          text: 'ARTYKLY',
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
         {
