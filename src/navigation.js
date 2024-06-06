@@ -97,7 +97,7 @@ export const headerData = {
           href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
         },
         {
-          text: 'Article (with MDX)',
+          text: 'dalsi commit zmena',
           href: getPermalink('markdown-elements-demo-post', 'post'),
         },
         {
@@ -143,7 +143,7 @@ export const footerData = {
       ],
     },
     {
-      title: 'Support',
+      title: 'PODPORA',
       links: [
         { text: 'Docs', href: '#' },
         { text: 'Community Forum', href: '#' },
